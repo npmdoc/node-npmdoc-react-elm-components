@@ -1,4 +1,7 @@
-# api documentation for  [react-elm-components (v1.0.1)](https://github.com/evancz/react-elm)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-elm-components.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-elm-components) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-elm-components.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-elm-components)
+# npmdoc-react-elm-components
+
+#### basic api documentation for  [react-elm-components (v1.0.1)](https://github.com/evancz/react-elm)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-elm-components.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-elm-components) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-elm-components.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-elm-components)
+
 #### Write React components in Elm
 
 [![NPM](https://nodei.co/npm/react-elm-components.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-elm-components)
@@ -60,7 +63,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
